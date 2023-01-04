@@ -37,6 +37,7 @@ app-items {
    margin-top: 112px;
     margin-left: 480px;
     height: 220px;
+    border-radius: 15px;
     border: 2.2px  solid #0C747E;
  }
  .icon:hover{
