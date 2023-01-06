@@ -17,15 +17,33 @@ app-items {
     cursor: pointer;
  }
  .savebtn {
-    margin-left: 550%;
+    margin-left: 560%;
+    margin-top: 50px;
    cursor: pointer;
  }
  .dropdown-toggle{
    color:#0C747E;
    cursor: pointer;
  }
-.iteraction{
+ .iteraction{
    margin-left: 8px;
+ }
+
+.inline{
+   padding-right: 18px;
+   font-size: 12px;
+   font-weight: 700;
+   /* padding-left: 7px; */
+}
+ .graphics{
+     margin-left: 2px;
+     font-size: 6px;
+     font-weight: 700;
+}
+ .custom{
+   padding-right: 8px;
+   font-weight: 700;
+   font-size: 10px;
 }
 
  span{
@@ -75,5 +93,14 @@ app-items {
     top: 40px;
     visibility: visible;
     opacity: 1;
+ }
+
+ select,option{
+   margin-top: 0;
+   padding: 7px 8px;
+   color: #0C747E;
+   font-size: 12px;
+   font-weight: 700;
+   border: 2px solid #0C747E;
  }
  
