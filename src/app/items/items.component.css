@@ -7,7 +7,7 @@ app-items {
     list-style: none;
  }
  .d-flex {
-    margin-left: 530%;
+    margin-left: 540%;
  }
  .d-flex i {
     margin-left: 25px;
@@ -18,7 +18,7 @@ app-items {
  }
  .savebtn {
     margin-left: 560%;
-    margin-top: 10px;
+    margin-top: 20px;
    cursor: pointer;
  }
  .dropdown-toggle{
@@ -55,7 +55,7 @@ app-items {
     color: #0C747E;
  }
  .card{
-   margin-top: 110px;
+   margin-top: 100px;
     margin-left: 480px;
     height: 220px;
     border-radius: 15px;
@@ -107,6 +107,9 @@ app-items {
  .common{
    border-top: none;
    border-bottom: 2px solid #0C747E;
+ }
+ .down{
+   padding-right: 30px;
  }
  
  
